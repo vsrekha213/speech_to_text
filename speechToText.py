@@ -22,8 +22,3 @@ def speech2Text(file):
         print("Could not request results from Google API; {0}".format(e))
 
 
-#Write results to a txt file
-#file = open("result.txt","w")
-#file.write(textdata)
-#file.writelines(L) 
-#file.close()
