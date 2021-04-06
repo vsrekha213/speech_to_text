@@ -1,1 +1,1 @@
-# speech_to_tect
+# speech_to_text
